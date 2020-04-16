@@ -13,6 +13,8 @@ make
 
 
 
+
+
 Main idea
 
 (1)Use 3 arrays to store INPUT, OUTPUT, and TEMPERATY variables separately. Each element has 3 fields: sign-key, value, and name-string.
