@@ -21,5 +21,5 @@ Main idea
 (2)Build a hash table to index every variable.
 
 
-(3)Do TopologySort to solve the dependence issue.
+(3)Do TopologySort to solve the dependence issues.
 
