@@ -1,5 +1,5 @@
 # LogicInterpreter
-Computer Architecture Programming
+Computer Architecture Programming Assignment
 
 testcases are in data directory
 test.1.01.txt, its corresponding result is ref.1.01.txt
